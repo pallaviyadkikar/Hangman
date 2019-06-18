@@ -1,0 +1,4 @@
+# Hangman
+
+The word to guess is represented by a row of dashes. If the player guess a letter which exists in the word, the script writes it in all its correct positions.  The player has specific number of turns to guess the word.
+A word is chosen at random from a list and the user must guess the word letter by letter before running out of attempts. With each failed attempt, an image of hangman will be formed step by step.
